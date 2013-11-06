@@ -32,7 +32,7 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
-gem 'sqlite3'
+
 
 gem'carrierwave'
 gem 'mini_magick', '3.5.0'
